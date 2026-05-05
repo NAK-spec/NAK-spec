@@ -3,8 +3,6 @@
 
 I’m a developer passionate about building creative and practical projects—from web apps to games.
 
-Welcome to my GitHub profile!
-
 ##  About Me
 
 I am Nakibuuka Allen, a Computer Science student at Uganda Christian University (UCU), with a strong passion for **cybersecurity** and **problem-solving**.
