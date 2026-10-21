@@ -24,7 +24,7 @@ I see technology as a tool for impact, and I am driven by the desire to use my s
 - Develop real-world security solutions that protect users and systems
 - Grow into a highly skilled security analyst in the tech industry
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Network security basics
 - Secure coding practices
@@ -32,7 +32,7 @@ I see technology as a tool for impact, and I am driven by the desire to use my s
 - Python for cybersecurity
 - Ethical hacking fundamentals
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I am always open to collaboration, learning opportunities, and meaningful tech discussions.
 
