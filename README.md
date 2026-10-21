@@ -47,13 +47,13 @@ I am always open to collaboration, learning opportunities, and meaningful tech d
 - System analysis and logical problem solving
 - Continuous learning in computer science concepts
 
-📌 **Projects**
+ **Projects**
 
-🎮 Tank Game — A 3-player battle game built with Pygame
-💄 Ashley Website — A beauty and makeup platform
+ Tank Game — A 3-player battle game built with Pygame
+Ashley Website — A beauty and makeup platform
 
 
-⭐ *"Solving problems is not just what I do — it's how I think."*
+ *"Solving problems is not just what I do — it's how I think."*
 
-📫 Contact
+
 Email: allennakibuuka90@gmail.com
