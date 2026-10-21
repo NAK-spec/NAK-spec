@@ -1,5 +1,5 @@
 # Nakibuuka-Allen-Ashley
-👋 Hi, I’m Allen
+ Hi, I’m Allen
 
 I’m a developer passionate about building creative and practical projects—from web apps to games.
 
@@ -9,15 +9,15 @@ I am Nakibuuka Allen, a Computer Science student at Uganda Christian University 
 
 I see technology as a tool for impact, and I am driven by the desire to use my skills to solve real-world problems and improve my community through computer science.
 
-## 🎯 What Drives Me
+##  What Drives Me
 
-- 🔐 Aspiring Cybersecurity Analyst  
-- 🧠 Critical thinker and problem solver  
-- 💡 Passionate about identifying and solving complex technical challenges  
-- 🌍 Motivated by using tech to create positive community impact  
+-  Aspiring Cybersecurity Analyst  
+-  Critical thinker and problem solver  
+-  Passionate about identifying and solving complex technical challenges  
+-  Motivated by using tech to create positive community impact  
 
 
-## 🚀 Goals
+##  Goals
 
 - Build strong expertise in cybersecurity (penetration testing, ethical hacking, and defense systems)
 - Contribute to open-source projects
